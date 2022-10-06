@@ -3,7 +3,8 @@ I'm Ian Pratt! (cogsandsquigs is an online alias)
 
 I program things sometimes.
 
-Website is [cogsandsquigs.gq](https://cogsandsquigs.gq) or accessable via the [.github.io domain](https://cogsandsquigs.github.io).
+Website is [cogsandsquigs.gq](https://cogsandsquigs.gq).
+<!-- or accessable via the [.github.io domain](https://cogsandsquigs.github.io)-->
 
 <!--
 **cogsandsquigs/cogsandsquigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
